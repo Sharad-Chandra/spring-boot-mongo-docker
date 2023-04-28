@@ -7,7 +7,7 @@ packages(jar, ear,war) for java based projects.
 ```bash
 mvn clean package
 ```
-webhook v1
+webhook
 ## Create Docker Image
 Docker is a continerization tool.Using docker we can deploy our applications as 
 
